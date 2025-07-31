@@ -220,3 +220,939 @@ Received Import Request.
 Start importing Assets/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss using Guid(ceb5e06ab0fca9e43a68875d0ea79f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35976ed528f4356c1263a8596bd5843e') in 0.2370466 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.077 seconds
+Refreshing native plugins compatible for Editor in 8.86 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.138 seconds
+Domain Reload Profiling: 2208ms
+	BeginReloadAssembly (290ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (658ms)
+		LoadAssemblies (584ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (225ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (205ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1139ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (944ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (31ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (200ms)
+			ProcessInitializeOnLoadAttributes (635ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 12.90 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (4.3 MB). Loaded Objects now: 6205.
+Memory consumption went from 112.2 MB to 107.9 MB.
+Total: 20.774900 ms (FindLiveObjects: 1.232700 ms CreateObjectMapping: 1.719000 ms MarkObjects: 11.691200 ms  DeleteObjects: 6.128900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 497.882686 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb7c1b0b999cc15d4b74e4e5e494fffd') in 0.0897285 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.698849 seconds.
+  path: Assets/UI Toolkit/Styles/ARTour_Components.uss
+  artifactKey: Guid(342f579bfc0f721479132234652b6aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Styles/ARTour_Components.uss using Guid(342f579bfc0f721479132234652b6aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad80ef17d0a56e94d03d47c8d3a9b5e3') in 0.0047211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 507.666291 seconds.
+  path: Assets/Scripts/Editor/PantallaInicio.cs
+  artifactKey: Guid(45e3946ab69e4184ebdf4fe10f2c87b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Editor/PantallaInicio.cs using Guid(45e3946ab69e4184ebdf4fe10f2c87b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '982c01a6af48d24021ed6b516f89593d') in 0.0014985 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.881039 seconds.
+  path: Assets/Scripts/Controllers/InicioUIController.cs
+  artifactKey: Guid(92d3f3ef5cc9e46498c2a4104bdffc53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Controllers/InicioUIController.cs using Guid(92d3f3ef5cc9e46498c2a4104bdffc53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e08e3bf5f2603d1b36236bab50e4fbb') in 0.0010681 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 356.620083 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbc4e208fe3e79da0436bd9cf08d1667') in 0.0017366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  4.110 seconds
+Refreshing native plugins compatible for Editor in 8.48 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.232 seconds
+Domain Reload Profiling: 5338ms
+	BeginReloadAssembly (681ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (22ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (112ms)
+	RebuildCommonClasses (207ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (3147ms)
+		LoadAssemblies (3344ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (285ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (257ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1233ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1022ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (201ms)
+			ProcessInitializeOnLoadAttributes (706ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 7.51 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (4.5 MB). Loaded Objects now: 6208.
+Memory consumption went from 112.2 MB to 107.7 MB.
+Total: 14.997600 ms (FindLiveObjects: 0.795800 ms CreateObjectMapping: 1.465300 ms MarkObjects: 7.286000 ms  DeleteObjects: 5.448800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 209.105296 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(7c2b5fcd2d1e1a64588ccb47786ef906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(7c2b5fcd2d1e1a64588ccb47786ef906) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a697611a05f5794988ab4096f5f38cf') in 0.0076763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.291506 seconds.
+  path: Assets/Resources/Outfit-Bold.ttf
+  artifactKey: Guid(881331258a5675643932c5a1dd716df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Outfit-Bold.ttf using Guid(881331258a5675643932c5a1dd716df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6553922746e570cd6bd227336810fcb7') in 0.1226096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Resources/Outfit-Regular.ttf
+  artifactKey: Guid(8601ec1904c709541852d1b36bc49a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Outfit-Regular.ttf using Guid(8601ec1904c709541852d1b36bc49a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '20b673ce1650781689a56d839a8465ce') in 0.0214396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Resources/Outfit-SemiBold.ttf
+  artifactKey: Guid(234ef9fe6cc56cf439b6e21e6ecc18a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Outfit-SemiBold.ttf using Guid(234ef9fe6cc56cf439b6e21e6ecc18a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01acd3f83b93d0dafd6a1dd04f04aaeb') in 0.0191502 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.033 seconds
+Refreshing native plugins compatible for Editor in 9.34 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.156 seconds
+Domain Reload Profiling: 2184ms
+	BeginReloadAssembly (313ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (73ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (620ms)
+		LoadAssemblies (544ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (240ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (219ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1156ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (902ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (176ms)
+			ProcessInitializeOnLoadAttributes (615ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 9.46 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (4.4 MB). Loaded Objects now: 6211.
+Memory consumption went from 112.1 MB to 107.7 MB.
+Total: 23.090200 ms (FindLiveObjects: 1.378400 ms CreateObjectMapping: 1.894100 ms MarkObjects: 11.897900 ms  DeleteObjects: 7.915100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 78.564177 seconds.
+  path: Assets/UI Toolkit/Styles/ARTour_Components.uss
+  artifactKey: Guid(342f579bfc0f721479132234652b6aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Styles/ARTour_Components.uss using Guid(342f579bfc0f721479132234652b6aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '940c7add9119c1459d1200535af876d8') in 0.0280238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.919734 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7497a664a6423f54721d20cce51bfe30') in 0.246381 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.980 seconds
+Refreshing native plugins compatible for Editor in 9.16 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.181 seconds
+Domain Reload Profiling: 2157ms
+	BeginReloadAssembly (265ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (71ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (602ms)
+		LoadAssemblies (479ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (238ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (215ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1182ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (985ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (183ms)
+			ProcessInitializeOnLoadAttributes (685ms)
+			ProcessInitializeOnLoadMethodAttributes (80ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 14.91 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (4.8 MB). Loaded Objects now: 6214.
+Memory consumption went from 112.2 MB to 107.4 MB.
+Total: 27.763000 ms (FindLiveObjects: 1.541100 ms CreateObjectMapping: 1.771700 ms MarkObjects: 17.834400 ms  DeleteObjects: 6.612400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 311.604546 seconds.
+  path: Assets/ImagenesUI/Backgrounds/universidad_building.jpg
+  artifactKey: Guid(9873a361c57582447aea786a1ecd6019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Backgrounds/universidad_building.jpg using Guid(9873a361c57582447aea786a1ecd6019) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7832e942f211736889b57e8255f42222') in 0.0782872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.321034 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26f72bf9ba1f304ba806739ff2d466e6') in 0.1435817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.689472 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9995479480481fe306d4d16f7bbc32ef') in 0.0141004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.518609 seconds.
+  path: Assets/ImagenesUI/Logos/Layer_1 (1).png
+  artifactKey: Guid(9fe5a9573d6b76540a488f502133463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Logos/Layer_1 (1).png using Guid(9fe5a9573d6b76540a488f502133463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '391ffbdad24273280089d88a5b629b66') in 0.0884044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.695172 seconds.
+  path: Assets/ImagenesUI/Logos/LOGO AR.png
+  artifactKey: Guid(8295f0a79155d0041a75ce11b7a0373d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Logos/LOGO AR.png using Guid(8295f0a79155d0041a75ce11b7a0373d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd80ac8fa3be35c814ca556c46e45167c') in 0.0455022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.082662 seconds.
+  path: Assets/ImagenesUI/Logos/artour_logo_main.png
+  artifactKey: Guid(9fe5a9573d6b76540a488f502133463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Logos/artour_logo_main.png using Guid(9fe5a9573d6b76540a488f502133463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2012e6ed77d4ef30f0d57b8c713d1502') in 0.0511355 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.651503 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41146e51db752b52476642e32bb72c9d') in 0.0175646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.553505 seconds.
+  path: Assets/ImagenesUI/Logos/Layer_1 (2).png
+  artifactKey: Guid(4e4a8f38f965a5841af693288ff9d14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Logos/Layer_1 (2).png using Guid(4e4a8f38f965a5841af693288ff9d14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86ff171b1b9ac6828da4f8166a810027') in 0.0484988 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.784593 seconds.
+  path: Assets/ImagenesUI/Logos/artour.png
+  artifactKey: Guid(9fe5a9573d6b76540a488f502133463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Logos/artour.png using Guid(9fe5a9573d6b76540a488f502133463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f9c8ec38a5017909e175f9fffe987dc1') in 0.051108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.699077 seconds.
+  path: Assets/ImagenesUI/Logos/artour_logo_main.png
+  artifactKey: Guid(4e4a8f38f965a5841af693288ff9d14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Logos/artour_logo_main.png using Guid(4e4a8f38f965a5841af693288ff9d14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21859a3df7165ab9dabd96cc135ac402') in 0.0569847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.943000 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b22fa41b95f80afff6b6bee4d1dd2fed') in 0.0095884 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 1613.881889 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d08fc1e9c10a8e97f6d8c8eeb033f18') in 0.0339641 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.529464 seconds.
+  path: Assets/ImagenesUI/Iconos/mdi_run-fast.png
+  artifactKey: Guid(5b2721a9bdebeb94eabe36304cff296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/mdi_run-fast.png using Guid(5b2721a9bdebeb94eabe36304cff296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b6e5a92d8197e147716266f4d35dd0e') in 0.0557629 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.692668 seconds.
+  path: Assets/ImagenesUI/Iconos/run.png
+  artifactKey: Guid(e2b8b5c6893f72b4491d6a5e9ade0626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/run.png using Guid(e2b8b5c6893f72b4491d6a5e9ade0626) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dcab6c8ed331671f051a65fb43b26d24') in 0.0421377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.536705 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_running.png
+  artifactKey: Guid(154461ad12a69484283173a4c9e59f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_running.png using Guid(154461ad12a69484283173a4c9e59f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'abc0e7ddf327e471f236a74c8f8c72b4') in 0.0269812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.320124 seconds.
+  path: Assets/ImagenesUI/Iconos/walking.png
+  artifactKey: Guid(154461ad12a69484283173a4c9e59f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/walking.png using Guid(154461ad12a69484283173a4c9e59f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91cb837a50230626397f39f387a84689') in 0.0286173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.540678 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_running.png
+  artifactKey: Guid(5b2721a9bdebeb94eabe36304cff296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_running.png using Guid(5b2721a9bdebeb94eabe36304cff296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35be6b891305dbed68b2d272319505d8') in 0.0445642 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.179944 seconds.
+  path: Assets/ImagenesUI/Iconos/ri_walk-fill.png
+  artifactKey: Guid(e23b86b9caf78584285f1748786403bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/ri_walk-fill.png using Guid(e23b86b9caf78584285f1748786403bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd185d143f0eb94a30f5c35a8f379200') in 0.0331348 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.672189 seconds.
+  path: Assets/ImagenesUI/Iconos/game.png
+  artifactKey: Guid(e3cd5c249690c2c4c8423c5bcbb2e9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/game.png using Guid(e3cd5c249690c2c4c8423c5bcbb2e9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '892cfc2af8154e492ac8ef8ecec784c5') in 0.0418119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.990310 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_gamepad.png
+  artifactKey: Guid(42c3e24b71930604d928c30212c6a1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_gamepad.png using Guid(42c3e24b71930604d928c30212c6a1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c278d632ccf0b29e83d99e805029ce4b') in 0.022498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.079595 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_walking.png
+  artifactKey: Guid(e23b86b9caf78584285f1748786403bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_walking.png using Guid(e23b86b9caf78584285f1748786403bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '280748b25f0350f03fe70aa8c8f27de4') in 0.029836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.029653 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ffa64b60c0fb3d8014286318c0ad46f') in 0.0125091 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 1519.176927 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e84ac5501c29949366deb0ed7f54150e') in 0.024231 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.311575 seconds.
+  path: Assets/ImagenesUI/Iconos/Vector (1).png
+  artifactKey: Guid(8d8abdf832a82da4088de83f08d892f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/Vector (1).png using Guid(8d8abdf832a82da4088de83f08d892f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77fd9bb8553d57b88de5f43e89900788') in 0.0337698 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.585195 seconds.
+  path: Assets/ImagenesUI/Iconos/exit.png
+  artifactKey: Guid(bb7df085b43d92248ac7a7031b7123a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/exit.png using Guid(bb7df085b43d92248ac7a7031b7123a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a5261d90315bdcb787fcd9d276f82bf') in 0.0333272 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.274967 seconds.
+  path: Assets/ImagenesUI/Iconos/arrow_right.png
+  artifactKey: Guid(8d8abdf832a82da4088de83f08d892f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/arrow_right.png using Guid(8d8abdf832a82da4088de83f08d892f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '008c4a9fe43d1818f23168091068ad82') in 0.0158818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2523.366624 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaInicio.uxml
+  artifactKey: Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaInicio.uxml using Guid(c05e03e9f6473624b9831682b4fc2d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e1d7dda9fde0c091d90289032194d14') in 0.1310986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  4.164 seconds
+Refreshing native plugins compatible for Editor in 8.53 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.272 seconds
+Domain Reload Profiling: 5435ms
+	BeginReloadAssembly (775ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (75ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (150ms)
+	RebuildCommonClasses (180ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (3143ms)
+		LoadAssemblies (3275ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (329ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (302ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1273ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1044ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (212ms)
+			ProcessInitializeOnLoadAttributes (720ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 9.49 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (4.4 MB). Loaded Objects now: 6282.
+Memory consumption went from 112.3 MB to 108.0 MB.
+Total: 14.816800 ms (FindLiveObjects: 0.897500 ms CreateObjectMapping: 1.009800 ms MarkObjects: 7.686300 ms  DeleteObjects: 5.221800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 957.000356 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c391582d739b6e62a5220f35cbb167ac') in 0.0090935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1836.568039 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaEscaneo.uxml
+  artifactKey: Guid(08160b2cb49db4a48ac0b499db21e138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaEscaneo.uxml using Guid(08160b2cb49db4a48ac0b499db21e138) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78ed86a0dd4f985ddc7e039ab41a638e') in 0.3689858 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.845429 seconds.
+  path: Assets/ImagenesUI/Iconos/Exit 1.png
+  artifactKey: Guid(d5377cd9bd203a8459ebdc46461adf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/Exit 1.png using Guid(d5377cd9bd203a8459ebdc46461adf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '314bf27a233d3f2dbbf86d0a61935471') in 0.0943311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.202777 seconds.
+  path: Assets/ImagenesUI/Iconos/burguer_menu.png
+  artifactKey: Guid(d5377cd9bd203a8459ebdc46461adf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/burguer_menu.png using Guid(d5377cd9bd203a8459ebdc46461adf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a544edacfc777c46ba32ff3412d5ef3') in 0.0174293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.458354 seconds.
+  path: Assets/ImagenesUI/Iconos/streamline-ultimate_loading-bold.png
+  artifactKey: Guid(d9bc58b0a7e9bc9408d0300dcb03311b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/streamline-ultimate_loading-bold.png using Guid(d9bc58b0a7e9bc9408d0300dcb03311b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b73837ea5a76836b0169bb2a7bff33d3') in 0.0544341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.850889 seconds.
+  path: Assets/ImagenesUI/Iconos/iicon_loading.png
+  artifactKey: Guid(d9bc58b0a7e9bc9408d0300dcb03311b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/iicon_loading.png using Guid(d9bc58b0a7e9bc9408d0300dcb03311b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e42edc0d9da86253a222eb5210dfd326') in 0.0501697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.770310 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_menu.png
+  artifactKey: Guid(d5377cd9bd203a8459ebdc46461adf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_menu.png using Guid(d5377cd9bd203a8459ebdc46461adf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7c1dcd5966ad40bd8f1a2242125d931') in 0.0155195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.327189 seconds.
+  path: Assets/ImagenesUI/Iconos/Ellipse 34.png
+  artifactKey: Guid(a44e9270c881f0e41b7e42d14b97496c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/Ellipse 34.png using Guid(a44e9270c881f0e41b7e42d14b97496c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '330a7ea1cc4cee76607cd05e4f615bbf') in 0.0262577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.516636 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_jack_confusing.png
+  artifactKey: Guid(a44e9270c881f0e41b7e42d14b97496c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_jack_confusing.png using Guid(a44e9270c881f0e41b7e42d14b97496c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d67dcc852abc0c177b28e1c72f0304c') in 0.0285205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1470.715646 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaEscaneo.uxml
+  artifactKey: Guid(08160b2cb49db4a48ac0b499db21e138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaEscaneo.uxml using Guid(08160b2cb49db4a48ac0b499db21e138) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f11ee3f7591be7c6f41718f665bd3a3') in 0.0215679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.422 seconds
+Refreshing native plugins compatible for Editor in 4.62 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.264 seconds
+Domain Reload Profiling: 2679ms
+	BeginReloadAssembly (363ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (23ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (98ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (938ms)
+		LoadAssemblies (838ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (281ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (257ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1265ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1039ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (193ms)
+			ProcessInitializeOnLoadAttributes (726ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 6.52 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (4.1 MB). Loaded Objects now: 6298.
+Memory consumption went from 112.4 MB to 108.3 MB.
+Total: 14.789500 ms (FindLiveObjects: 0.897600 ms CreateObjectMapping: 1.153600 ms MarkObjects: 8.137200 ms  DeleteObjects: 4.599000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.030 seconds
+Refreshing native plugins compatible for Editor in 5.09 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.133 seconds
+Domain Reload Profiling: 2159ms
+	BeginReloadAssembly (245ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (682ms)
+		LoadAssemblies (569ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (242ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (221ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1134ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (937ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (176ms)
+			ProcessInitializeOnLoadAttributes (653ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 14.71 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (5.7 MB). Loaded Objects now: 6301.
+Memory consumption went from 112.5 MB to 106.8 MB.
+Total: 24.381500 ms (FindLiveObjects: 1.723500 ms CreateObjectMapping: 2.160200 ms MarkObjects: 11.005800 ms  DeleteObjects: 9.489800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1856.341426 seconds.
+  path: Assets/ImagenesUI/Iconos/ph_path.png
+  artifactKey: Guid(249c47a8a45641244996ed2fb37103a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/ph_path.png using Guid(249c47a8a45641244996ed2fb37103a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2af5c5ea3e4c0b7ec0cb1654bed5f968') in 0.1421357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.496245 seconds.
+  path: Assets/ImagenesUI/Iconos/Ellipse 34 (1).png
+  artifactKey: Guid(cb92b7952b1e78146aae384e1aaef766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/Ellipse 34 (1).png using Guid(cb92b7952b1e78146aae384e1aaef766) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '272d24c88c735c4c953c3c915e4c946b') in 0.0400803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.547418 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_path.png
+  artifactKey: Guid(249c47a8a45641244996ed2fb37103a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_path.png using Guid(249c47a8a45641244996ed2fb37103a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4465669f2a34e47e98e695b778dd402') in 0.0191497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.755114 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_jack_ok.png
+  artifactKey: Guid(cb92b7952b1e78146aae384e1aaef766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_jack_ok.png using Guid(cb92b7952b1e78146aae384e1aaef766) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '091dfd1c50512dff38d0ce816e833674') in 0.0332461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.253407 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_location.png
+  artifactKey: Guid(688929ae023837744b5e6789e5ed0873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_location.png using Guid(688929ae023837744b5e6789e5ed0873) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e71b6e00698c31254c025f08d254f6e0') in 0.0346331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.107960 seconds.
+  path: Assets/ImagenesUI/Iconos/icon_exit.png
+  artifactKey: Guid(bb7df085b43d92248ac7a7031b7123a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImagenesUI/Iconos/icon_exit.png using Guid(bb7df085b43d92248ac7a7031b7123a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4869656da799030cc6aade3b7fdc361') in 0.0291232 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2579.158431 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaARTour.uxml
+  artifactKey: Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaARTour.uxml using Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e04b18603c973fb560352bd3986f5a7') in 0.1784531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.731142 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaARTour.uxml
+  artifactKey: Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaARTour.uxml using Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6e60668e06a32c394fa4cfc1e953dc0') in 0.022175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.928857 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaEscaneo.uxml
+  artifactKey: Guid(08160b2cb49db4a48ac0b499db21e138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaEscaneo.uxml using Guid(08160b2cb49db4a48ac0b499db21e138) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b004a57ca0c43e370fca9e0b0542d42') in 0.0144215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 1350.778328 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaARTour.uxml
+  artifactKey: Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaARTour.uxml using Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e90937c6064381a39f0f674dde0d2f02') in 0.0217247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.282664 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaARTour.uxml
+  artifactKey: Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaARTour.uxml using Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd753e3ef38a092102f9f771cf390fc8') in 0.0170551 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.558508 seconds.
+  path: Assets/UI Toolkit/Layouts/PantallaARTour.uxml
+  artifactKey: Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Layouts/PantallaARTour.uxml using Guid(c9e66cb93a091d746ae50a6709e2a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1ee8cd067a3fdba2d79357684d754d4') in 0.0203892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.286 seconds
+Refreshing native plugins compatible for Editor in 7.39 ms, found 5 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.164 seconds
+Domain Reload Profiling: 2447ms
+	BeginReloadAssembly (349ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (33ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (101ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (821ms)
+		LoadAssemblies (705ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (264ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (239ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1164ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (960ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (187ms)
+			ProcessInitializeOnLoadAttributes (668ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 10.68 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5636 unused Assets / (4.9 MB). Loaded Objects now: 6309.
+Memory consumption went from 112.5 MB to 107.6 MB.
+Total: 19.711500 ms (FindLiveObjects: 1.101200 ms CreateObjectMapping: 1.466000 ms MarkObjects: 10.238800 ms  DeleteObjects: 6.900700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
